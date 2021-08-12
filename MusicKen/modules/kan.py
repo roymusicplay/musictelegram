@@ -436,7 +436,7 @@ async def play(_, message: Message):
                                 InlineKeyboardButton("📖 ᴘʟᴀʏʟɪꜱᴛ", callback_data="playlist"),
                                 InlineKeyboardButton("💬 ɢʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}"),
                             ],   
-                            [InlineKeyboardButton("💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"), InlineKeyboardButton("💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip")],
+                            [InlineKeyboardButton("💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"), InlineKeyboardButton("💵 owner", url="https://t.me/abhinasroy")],
                             [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
                         ]
                     )
@@ -484,7 +484,7 @@ async def play(_, message: Message):
                                 InlineKeyboardButton("📖 ᴘʟᴀʏʟɪꜱᴛ", callback_data="playlist"),
                                 InlineKeyboardButton("💬 ɢʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}"),
                             ],   
-                            [InlineKeyboardButton("💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"), InlineKeyboardButton("💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip")],
+                            [InlineKeyboardButton("💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"), InlineKeyboardButton("💵 owner", url="https://t.me/abhinasroy")],
                             [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
                         ]
                     )
@@ -525,7 +525,7 @@ async def play(_, message: Message):
                                 InlineKeyboardButton("📖 ᴘʟᴀʏʟɪꜱᴛ", callback_data="playlist"),
                                 InlineKeyboardButton("💬 ɢʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}"),
                             ],   
-                            [InlineKeyboardButton("💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"), InlineKeyboardButton("💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip")],
+                            [InlineKeyboardButton("💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"), InlineKeyboardButton("💵 owner", url="https://t.me/abhinasroy")],
                             [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
                         ]
                     )
