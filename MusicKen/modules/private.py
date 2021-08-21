@@ -41,7 +41,7 @@ Dikekolah oleh {OWNER}
                         "ᴄʜᴀɴɴᴇʟ 📣", url=f"https://t.me/{UPDATES_CHANNEL}")],
                 [
                     InlineKeyboardButton("🌟 ɢɪᴛ ʜᴜʙ 🌟", url=f"{SOURCE_CODE}"),
-                    InlineKeyboardButton("💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip")
+                    InlineKeyboardButton("💵 owner", url="https://t.me/abhinasroy")
                 ]        
             ]
         ),
