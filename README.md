@@ -35,7 +35,7 @@ ganti aja yang di youtube.py play.py song.py dan channelplay.py yang awalnya
 
 ## TELEGRAM
 
-<b>OWNER [KEN KAN](https://t.me/kenkanasw)</b>
+<b>OWNER [KEN KAN](https://t.me/abhinasroy)</b>
 
 <b>GROUP MUSIKKU
 [@group](https://t.me/DOSTI_GROUP_1234)</b>
