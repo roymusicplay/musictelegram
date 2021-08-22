@@ -38,11 +38,11 @@ ganti aja yang di youtube.py play.py song.py dan channelplay.py yang awalnya
 <b>OWNER [KEN KAN](https://t.me/kenkanasw)</b>
 
 <b>GROUP MUSIKKU
-[@musikkugroup](https://t.me/mausikkugroup)</b>
+[@group](https://t.me/DOSTI_GROUP_1234)</b>
 
-<b>CHANNEL MUSIKKU [@musikkuchannel](https://t.me/musikkuchannel)</b>
+<b>CHANNEL MUSIKKU [@CHANNELl](https://t.me/ABOUT_ABHINAS)</b>
 
-<b>TEMUKAN DI TELEGRAM [@Musiksayabot](https://t.me/Musiksayabot)</b>
+<b>TEMUKAN DI TELEGRAM [@abhinasroy](https://t.me/abhinasroy)</b>
 
 
 
