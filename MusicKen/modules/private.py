@@ -91,8 +91,8 @@ def help_answer(client, callback_query):
 def map(pos):
     if pos==1:
         button = [
-            [InlineKeyboardButton(text = '⬅️ Sebelummya', callback_data = "help+5"),
-             InlineKeyboardButton(text = 'Selanjutnya ➡️', callback_data = "help+2")]
+            [InlineKeyboardButton(text = '⬅️ back', callback_data = "help+5"),
+             InlineKeyboardButton(text = 'Command ➡️', callback_data = "help+2")]
         ]
     elif pos==len(tr.HELP_MSG)-1:
         url = f"https://t.me/{SUPPORT_GROUP}"
@@ -138,7 +138,7 @@ async def ghelp(_, message: Message):
         """
 **🔰 Perintah**
       
-**=>> Memutar Lagu 🎧**
+**=>> Made by @ABOUT_ABHINAS 🎧**
       
 • /play (song name) - To Play the song you requested via youtube 
 • /ytplay (song name) - To Play the song you requested via youtube
