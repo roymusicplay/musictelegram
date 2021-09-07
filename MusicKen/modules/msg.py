@@ -29,27 +29,27 @@ f"""
 """
 **🔰 Made by @ABOUT_ABHINAS**
 
-**=>> Memutar Lagu 🎧**
+**=>> Playing Song 🎧**
 
-• /play (nama lagu) - Untuk Memutar lagu yang Anda minta melalui youtube
-• /ytplay (nama lagu) - Untuk Memutar lagu yang Anda minta melalui youtube
-• /yt (nama lagu) - Untuk Memutar lagu yang Anda minta melalui youtube
-• /p (nama lagu) - Untuk Memutar lagu yang Anda minta melalui youtube
-• /dplay (nama lagu) - Untuk Memutar lagu yang Anda minta melalui deezer
-• /splay (nama lagu) - Untuk Memutar lagu yang Anda minta melalui jio saavn
-• /player: Buka menu Pengaturan pemain
-• /skip: Melewati trek saat ini
-• /pause: Jeda trek
-• /resume: Melanjutkan trek yang dijeda
-• /end: ​​Menghentikan pemutaran media
-• /current: Menampilkan trek yang sedang diputar
-• /playlist: Menampilkan daftar putar
+• /play (song name) - To Play the song you requested via youtube
+• /ytplay (song name) - To Play the song you requested via youtube
+• /yt (song name) - To Play the song you requested via youtube
+• /p (song name) - To Play the song you requested via youtube
+• /dplay (song name) - To Play the song you requested via deezer
+• /splay  (song name) - To Play the song you requested via jio saavn 
+• /player: Open the Player settings menu 
+• /skip: Skips the current track
+• /pause: Pause track
+• /resume: Resume a paused track
+• /end: ​​Stops media playback
+• /current: Displays the currently playing track 
+• /playlist: Displays a playlist All
 
-Semua Perintah Bisa Digunakan Kecuali Perintah /player /skip /pause /resume  /end Hanya Untuk Admin Grup
+Commands Can Be Used Except Command /player /skip /pause /resume /end Only For Group Admins
 
-**==>>Download Lagu 📥**
+**==>>Download Song  📥**
 
-• /song [nama lagu]: Unduh audio lagu dari youtube
+• /song  [song name]: Download song audio from youtube
 """ ,
 f"""
 **=>> Saluran Music Play 🛠**
