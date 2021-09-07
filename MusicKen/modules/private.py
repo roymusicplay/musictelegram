@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO)
 async def start_(client: Client, message: Message):
     await message.reply_sticker("CAACAgUAAxkBAAFF-KFg-jaEvlhu_kNknYQjxsuyDvp--AACjAMAAtpWSVeocCICILIfRSAE")
     await message.reply_text(
-        f"""👋🏻 Hallo, I am musicbot [{PROJECT_NAME}](https://telegra.ph/file/ed136c19e7f6afddb4912.jpg)
+        f"""👋🏻 Hallo, I am musicbot [{PROJECT_NAME}](https://telegra.ph/file/71617c5cb6c01880a5626.jpg)
 Dikekolah oleh {OWNER}
 ・✦▭▭▭▭✧◦✦◦✧▭▭▭▭✦ ・
 ☑️ I have many features for those of you who like songs
