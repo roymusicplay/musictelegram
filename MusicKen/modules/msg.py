@@ -4,30 +4,30 @@ class Messages():
       HELP_MSG = [
         ".",
 f"""
-**👋🏻 Hai Selamat Datang Kembali Di [{PROJECT_NAME}](https://telegra.ph/file/ed136c19e7f6afddb4912.jpg)
+**👋🏻 Hi Welcome Back To [{PROJECT_NAME}](https://telegra.ph/file/71617c5cb6c01880a5626.jpg)
 
-⚪️ {PROJECT_NAME} Dapat Memutar Musik Di Obrolan Suara Grup Anda Serta Obrolan Suara Saluran
+⚪️ {PROJECT_NAME} Can Play Music In Your Group Voice Chat As Well As Channel Voice Chat
 
-⚪️ Assistant Name >> @{ASSISTANT_NAME}\n\n☑️ Klik Selanjutnya Untuk Informasi Lebih Lanjut**
+⚪️ Assistant Name >> @{ASSISTANT_NAME}\n\n☑️ Click Next For More Information**
 """,
 
 f"""
-**🛠️ Pengaturan**
+**🛠️ Arrangement**
 
-1) Jadikan Bot Sebagai Admin
-2) Mulai Obrolan Suara / Vcg
-3) Kirim Perintah /userbotjoin
-• Jika Assistant Bot Bergabung Selamat Menikmati Musik, 
-• Jika Assistant Bot Tidak Bergabung Silahkan Tambahkan @{ASSISTANT_NAME} Ke Grup Anda Dan Coba Lagi
+1) Make Bot Admin
+2) Start Voice Chat / Vcg
+3) Send Command /userbotjoin
+• If Assistant Bot Joins Enjoy Music, 
+• If Assistant Bot Not Joined Please Add @{ASSISTANT_NAME} To Your Group And Try Again
 
-**Untuk Saluran Music Play 📣**
+**For Music Play Channel 📣**
 
-1) Jadikan Bot Sebagai Admin Saluran
-2) Kirim /userbotjoinchannel Di Grup Tertaut
-3) Sekarang Kirim Perintah Di Grup Tertaut
+1) Make Bot a Channel Admin
+2) Send Command /userbotjoin in linked group
+3) Now Send Commands In Linked Groups
 """,
 """
-**🔰 Perintah**
+**🔰 Made by @ABOUT_ABHINAS**
 
 **=>> Memutar Lagu 🎧**
 
@@ -81,7 +81,7 @@ f"""
 - /admincache: Memperbarui Info Admin Grup Anda. Coba Jika Bot Tidak Mengenali Admin
 - /userbotjoin: Undang @{ASSISTANT_NAME} Userbot Ke Grup Anda
 """,
-f"""👋🏻 Hallo, Nama saya [{PROJECT_NAME}](https://telegra.ph/file/ed136c19e7f6afddb4912.jpg)
+f"""👋🏻 Hallo, Nama saya [{PROJECT_NAME}](https://telegra.ph/file/71617c5cb6c01880a5626.jpg)
 Dikekolah oleh {OWNER}
 ・✦▭▭▭▭✧◦✦◦✧▭▭▭▭✦ ・
 ☑️ Saya memiliki banyak fitur untuk anda yang suka lagu
