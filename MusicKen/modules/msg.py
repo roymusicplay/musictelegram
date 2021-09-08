@@ -52,44 +52,44 @@ Commands Can Be Used Except Command /player /skip /pause /resume /end Only For G
 • /song  [song name]: Download song audio from youtube
 """ ,
 f"""
-**=>> Saluran Music Play 🛠**
+**=>> Music Play Channel 🛠**
 
-⚪️ Hanya untuk admin grup tertaut:
+⚪️ made by @abhinasroy:
 
-• /cplay (nama lagu) - putar lagu yang Anda minta
-• /cdplay (nama lagu) - putar lagu yang Anda minta melalui deezer
-• /csplay (nama lagu) - putar lagu yang Anda minta melalui jio saavn
-• /cplaylist - Tampilkan daftar yang sedang diputar
-• /cccurrent - Tampilkan sedang diputar
-• /cplayer - buka panel pengaturan pemutar musik
-• /cpause - jeda pemutaran lagu
-• /cresume - melanjutkan pemutaran lagu
-• /cskip - putar lagu berikutnya
-• /cend - hentikan pemutaran musik
-• /userbotjoinchannel - undang asisten ke obrolan Anda
+• /cplay (song name) - play the song you requested
+• /cdplay (song name) - play the song you requested via deezer
+• /csplay (song name) - play the song you requested via jio saavn
+• /cplaylist - Show currently playing list
+• /cccurrent - Show currently playing
+• /cplayer - open the music player settings panel
+• /cpause - pause song playback
+• /cresume - resume song playback
+• /cskip - play next song
+• /cend - stop music playing
+• /userbotjoinchannel - invite assistants to your chat
 
-⚪️ Jika Anda Tidak Suka Bermain Di Grup Tertaut:
+⚪️ If You Don't Like Playing In Linked Groups:
 
-1) Dapatkan ID Saluran Anda.
-2) Buat Grup Dengan Judul: Channel Music: ID_SALURAN_ANDA
-3) Tambahkan Bot Sebagai Admin Saluran Dengan Izin Penuh
-4) Tambahkan @{ASSISTANT_NAME} Ke Saluran Sebagai admin.
-5) Cukup Kirim Perintah Di Grup Anda
+1) Get your Channel ID.
+2) Create a Group With Title: Music Channel
+3) Add Bot As Channel Admin With Full Permission
+4) add @{ASSISTANT_NAME} to Channel as admin.
+5) Just Send Order In Your
 
-**=>> Lebih Banyak Alat 🧑‍🔧**
+**=>> Group =>> More Tools 🧑‍🔧**
 
-- /admincache: Memperbarui Info Admin Grup Anda. Coba Jika Bot Tidak Mengenali Admin
-- /userbotjoin: Undang @{ASSISTANT_NAME} Userbot Ke Grup Anda
+- /admincache: Update your Group Admin Info. Try If Bot Doesn't Recognize Admin
+- /userbotjoin: Invite @{ASSISTANT_NAME} Userbot To Your Group
 """,
-f"""👋🏻 Hallo, Nama saya [{PROJECT_NAME}](https://telegra.ph/file/71617c5cb6c01880a5626.jpg)
+f"""👋🏻 Hallo, Musicbot [{PROJECT_NAME}](https://telegra.ph/file/71617c5cb6c01880a5626.jpg)
 Dikekolah oleh {OWNER}
 ・✦▭▭▭▭✧◦✦◦✧▭▭▭▭✦ ・
-☑️ Saya memiliki banyak fitur untuk anda yang suka lagu
-🔘 Memutar lagu di group 
-🔘 Memutar lagu di channel
-🔘 Mendownload lagu
-🔘 Mencari link youtube
+☑️ I have many features for those of you who like songs
+🔘 Playing songs in the group 
+🔘 Playing songs on the channel
+🔘 Download songs
+🔘 Looking for youtube links
 ・✦▭▭▭▭✧◦✦◦✧▭▭▭▭✦ ・
-☑️ Klik tombol bantuan untuk informasi lebih lanjut
+☑️ Click the help button for more information
 """
 ]
